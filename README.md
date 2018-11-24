@@ -1,1 +1,2 @@
 我正在学习使用Opengl和计算机图形学的一些相关东西，我想把它放在GifHub做一些版本管理和保存。
+以上大部分代码来自https://learnopengl.com
