@@ -1,0 +1,21 @@
+﻿  PBRExample.cpp
+h:\gifhub\opengl\learningopengl\link\include\selfbuilt\shader.h(68): warning C4101: “infoLog”: 未引用的局部变量
+h:\gifhub\opengl\learningopengl\link\include\selfbuilt\shader.h(67): warning C4101: “success”: 未引用的局部变量
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(204): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(208): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(209): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(212): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(219): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(378): warning C4305: “初始化”: 从“double”到“float”截断
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(443): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(445): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+h:\gifhub\opengl\learningopengl\pbrsampleexample\pbrsampleexample\pbrexample.cpp(447): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  LINK : 没有找到 H:\GifHub\Opengl\LearningOpengl\PBRSampleExample\Debug\PBRSampleExample.exe 或上一个增量链接没有生成它；正在执行完全链接
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“H:\GifHub\Opengl\LearningOpengl\PBRSampleExample\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  PBRSampleExample.vcxproj -> H:\GifHub\Opengl\LearningOpengl\PBRSampleExample\Debug\PBRSampleExample.exe
